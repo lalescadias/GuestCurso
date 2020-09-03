@@ -1,0 +1,35 @@
+#listagem {
+	font-family: Helvetica, Arial, Tahoma;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#listagem td, #listagem th {
+	border: 1px solid #ddd;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#listagem th {
+	background-color: #4CAF50;
+	color: white;
+}
+
+#listagem tr:hover {
+	background-color: #ddd;
+}
+
+h2 {
+	padding: 20px;
+	background-color: LightSlateGray;
+	color: white;
+	width: 200px;
+	border-radius: 5px;
+}
+
+h1 {
+	font: Helvetica;
+	color: LightSlateGray;
+	text-align: center;
+}
